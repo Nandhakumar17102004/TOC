@@ -2,7 +2,7 @@
 
 This program converts a given regular expression into a **Non-Deterministic Finite Automaton (NFA)** transition table.
 
-It is designed for educational use in **Compiler Design / Formal Languages / Automata Theory** to demonstrate how regular expressions are translated into state machines using ε-transitions.
+It is designed for **Compiler Design / Formal Languages / Automata Theory** to demonstrate how regular expressions are translated into state machines using ε-transitions.
 
 ---
 
